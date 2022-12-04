@@ -1,12 +1,3 @@
-// let newWindow;
-// function openWindow()
-// {
-//     var newindow = window.open("https://www.google.com/", "", "width=500,height=500");
-// }
-// function closeWindow()
-// {
-//     newWindow.close();
-// }
 
 // let newWindow;
 
